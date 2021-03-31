@@ -1,6 +1,6 @@
 ﻿
 
-namespace MyParasol.FileWatcher
+namespace MyParasol.FileWatcher 
 {
     public class Watcher
     {
